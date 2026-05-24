@@ -1,0 +1,1 @@
+print("welcome, you've successfully wasted your time")
